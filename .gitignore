@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+
+# Build output (CI 会自行构建；Capacitor sync 时重新生成)
+dist/
+dist-ssr/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+*.local
+
+# Android / Gradle 构建产物与本地配置
+android/.gradle/
+android/build/
+android/app/build/
+android/captures/
+android/local.properties
+android/app/release/
+*.keystore
+!debug.keystore
+
+# Capacitor / AI Studio 本地缓存
+assets/.aistudio/

@@ -1,0 +1,6 @@
+{
+  "name": "美序名片",
+  "description": "轻量化、高颜值纯前端安卓名片设计APP，支持30+精美模板、全自由度可视化编辑、图层管理、4K高清图片与300DPI印刷级PDF本地极速导出。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
