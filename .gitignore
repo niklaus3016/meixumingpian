@@ -29,3 +29,10 @@ android/app/release/
 
 # Capacitor / AI Studio 本地缓存
 assets/.aistudio/
+
+# 参考项目对照文件（不入库）
+qitaapp/
+
+# 签名密钥（严禁入库）
+my-release-key.keystore
+*.jks
